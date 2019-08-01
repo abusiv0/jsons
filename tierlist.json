@@ -1,5 +1,5 @@
 {
-  "all": {
+  "todos": {
     "1": [
       "Akali",
       "Chogath",
@@ -62,7 +62,7 @@
       "Vayne"
     ]
   },
-  "early": {
+  "juego temprano": {
     "1": [
       "AurelionSol",
       "Aatrox",
@@ -124,7 +124,7 @@
       "Warwick"
     ]
   },
-  "mid": {
+  "medio juego": {
     "1": [
       "Darius",
       "Fiora",
@@ -186,7 +186,7 @@
       "Zed"
     ]
   },
-  "late": {
+  "juego tardio": {
     "1": [
       "Darius",
       "Aatrox",
