@@ -1,7 +1,7 @@
 {
   "bfsword": {
     "key": "bfsword",
-    "name": "B.F. Sword",
+    "name": "Espadón",
     "type": "Offensive",
     "bonus": "+20 Daño de Ataque.",
     "tier": 1,
@@ -28,15 +28,15 @@
   },
   "needlesslylargerod": {
     "key": "needlesslylargerod",
-    "name": "Needlessly Large Rod",
+    "name": "Vara innecesariamente grande",
     "type": "Offensive",
-    "bonus": "+20% Spell Damage",
+    "bonus": "+20% Daño de Hechizo",
     "tier": 1,
     "depth": 1,
     "stats": [
       {
         "name": "abilityPower",
-        "title": "Spell Damage",
+        "title": "Daño de Hechizo",
         "amount": "+20%"
       }
     ],
