@@ -1,0 +1,68 @@
+#EXTM3U
+
+#EXTINF:-1,Montecarlo (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/5144.rtmp
+#EXTINF:-1,Montecarlo (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5144.rtmp
+#EXTINF:-1,Montevideo Portal
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+#EXTINF:-1,Saeta Canal 10 (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/5229.rtmp
+#EXTINF:-1,Saeta Canal 10 (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5229.rtmp
+#EXTINF:-1,Teledoce (3)
+http://ummodigital.com:2082/live/Mike2019/mike2019/5228.rtmp
+#EXTINF:-1,Teledoce (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5228.rtmp
+#EXTINF:-1,Montevideo Portal
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+#EXTINF:-1,TELEFE (ARGENTINA) 1
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
+#EXTINF:-1,TIERRA MÍA (ARGENTINA)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
+#EXTINF:-1,Mas Chic (1)
+http://144.217.69.93:25461/live/3440/3440/58907.m3u8
+#EXTINF:-1,Mas Chic (2)
+http://144.217.69.93:25461/live/1317/1317/58907.m3u8
+#EXTINF:-1,Fox Life (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1393.rtmp
+#EXTINF:-1,Fox (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1390.rtmp
+#EXTINF:-1,Fox Movies (1)
+http://144.217.69.93:25461/live/3440/3440/58928.m3u8
+#EXTINF:-1,Fox Movies (2)
+http://144.217.69.93:25461/live/1317/1317/58928.m3u8
+#EXTINF:-1,Fx (2)
+http://144.217.69.93:25461/live/1317/1317/58923.m3u8
+#EXTINF:-1,Fx (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1395.rtmp
+#EXTINF:-1,Tnt (1)
+http://144.217.69.93:25461/live/3440/3440/58871.m3u8
+#EXTINF:-1,Tnt (2)
+http://144.217.69.93:25461/live/1317/1317/58871.m3u8
+#EXTINF:-1,Tnt (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/409.rtmp
+#EXTINF:-1,Universal Channel (1)
+http://144.217.69.93:25461/live/3440/3440/58862.m3u8
+#EXTINF:-1,Universal Channel (2)
+http://144.217.69.93:25461/live/1317/1317/58862.m3u8
+#EXTINF:-1,Universal Channel (4)
+http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/418.rtmp
+#EXTINF:-1,Warner Channel (1)
+http://144.217.69.93:25461/live/3440/3440/58857.m3u8
+#EXTINF:-1,Warner Channel (2)
+http://144.217.69.93:25461/live/1317/1317/58857.m3u8
+#EXTINF:-1,TELEMUNDO (MEXICO)
+http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
+#EXTINF:-1,RAINEWS24 ITALIA
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:-1,RAINEWS24 ITALIA 2
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1,TeleSUR VZLA
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
+#EXTINF:-1,Rede TV SD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1,Globo SP (3)
+http://tv.factoryiptv.com:80/claudio/claudio/37090
+#EXTINF:-1,Globo RJ (3)
+http://tv.factoryiptv.com:80/claudio/claudio/37091
