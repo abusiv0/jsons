@@ -1,14 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1,Montecarlo (4)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (3)
+http://ummodigital.com:2082/live/jay12/jay12/5144.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5144.rtmp
-#EXTINF:-1,Montevideo Portal
+#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
-#EXTINF:-1,Saeta Canal 10 
-http://nettv-xcruiser.com:8000/FYvJ8FU5qB/fc1sv3kI9b/55805
-#EXTINF:-1,Saeta Canal 10 (4)
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/5229.rtmp
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (3)
+http://ummodigital.com:2082/live/jay12/jay12/5229.rtmp
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5229.rtmp
-#EXTINF:-1,Teledoce (4)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/5228.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (3)
+http://ummodigital.com:2082/live/jay12/jay12/5228.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5228.rtmp
 #EXTINF:-1,Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
