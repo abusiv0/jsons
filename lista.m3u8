@@ -1,41 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
+#EXTINF:-1,URUGAY | CANAL 4
+http://movspain.com:25461/andres456/andres456/2685
+#EXTINF:-1,URUGAY | MONTECARLO TV
+http://movspain.com:25461/andres456/andres456/7403
+#EXTINF:-1,URUGAY | CHARRUA TV
+http://movspain.com:25461/andres456/andres456/2686
+#EXTINF:-1,URUGAY | CANAL 12
+http://movspain.com:25461/andres456/andres456/2690
+#EXTINF:-1,URU:PPV URUGUAY
+http://movspain.com:25461/andres456/andres456/2689
+#EXTINF:-1,URU:TV CIUDAD
+http://movspain.com:25461/andres456/andres456/2688
+#EXTINF:-1,URU:VTV URUGAY
+http://movspain.com:25461/andres456/andres456/291
+#EXTINF:-1,URU:VTV (1080)
+http://movspain.com:25461/andres456/andres456/2687
+#EXTINF:-1,Montecarlo (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (3)
+#EXTINF:-1,Montecarlo (3)
 http://ummodigital.com:2082/live/jay12/jay12/5144.rtmp
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
+#EXTINF:-1,Montecarlo (4)
 http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5144.rtmp
-#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
+#EXTINF:-1,Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/5229.rtmp
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (3)
-http://ummodigital.com:2082/live/jay12/jay12/5229.rtmp
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5229.rtmp
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (2)
-http://ummodigital.com:2082/live/Donald1/Donald1/5228.rtmp
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (3)
-http://ummodigital.com:2082/live/jay12/jay12/5228.rtmp
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5228.rtmp
+#EXTINF:-1,Montevideo Portal
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
 #EXTINF:-1,Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
 #EXTINF:-1,TELEFE (ARGENTINA) 1
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 #EXTINF:-1,TIERRA MÍA (ARGENTINA)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1,Fox Life (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1393.rtmp
-#EXTINF:-1,Fox (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1390.rtmp
-#EXTINF:-1,Fx (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/1395.rtmp
-#EXTINF:-1,Tnt (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/409.rtmp
-#EXTINF:-1,Universal Channel (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/418.rtmp
 #EXTINF:-1,TELEMUNDO (MEXICO)
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
 #EXTINF:-1,RAINEWS24 ITALIA
