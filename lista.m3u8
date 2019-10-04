@@ -1,31 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1,URUGAY | CANAL 4
-http://movspain.com:25461/andres456/andres456/2685
-#EXTINF:-1,URUGAY | MONTECARLO TV
-http://movspain.com:25461/andres456/andres456/7403
-#EXTINF:-1,URUGAY | CHARRUA TV
-http://movspain.com:25461/andres456/andres456/2686
-#EXTINF:-1,URUGAY | CANAL 12
-http://movspain.com:25461/andres456/andres456/2690
-#EXTINF:-1,URU:PPV URUGUAY
-http://movspain.com:25461/andres456/andres456/2689
-#EXTINF:-1,URU:TV CIUDAD
-http://movspain.com:25461/andres456/andres456/2688
-#EXTINF:-1,URU:VTV URUGAY
-http://movspain.com:25461/andres456/andres456/291
-#EXTINF:-1,URU:VTV (1080)
-http://movspain.com:25461/andres456/andres456/2687
-#EXTINF:-1,Montecarlo (2)
+#EXTINF:-1,Saeta Canal 10
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/8969.ts
+#EXTINF:-1,Teledoce
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
+#EXTINF:-1,Montecarlo 1
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
+#EXTINF:-1,Montecarlo 2
 http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
-#EXTINF:-1,Montecarlo (3)
-http://ummodigital.com:2082/live/jay12/jay12/5144.rtmp
-#EXTINF:-1,Montecarlo (4)
-http://ummodigital.com:2082/live/Gustavo2019/gustavo2019/5144.rtmp
-#EXTINF:-1,Montevideo Portal
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
-#EXTINF:-1,Montevideo Portal
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+#EXTINF:-1,Montecarlo 3
+http://ummodigital.com:2082/live/airborne1/airborne1/5144.rtmp
 #EXTINF:-1,Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
 #EXTINF:-1,TELEFE (ARGENTINA) 1
