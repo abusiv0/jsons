@@ -1,23 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1,Saeta Canal 10
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/8969.ts
-#EXTINF:-1,Teledoce
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
-#EXTINF:-1,Montecarlo 1
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
-#EXTINF:-1,Montecarlo 2
+#EXTINF:-1,Montecarlo (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
-#EXTINF:-1,Montecarlo 3
+#EXTINF:-1,Montecarlo (3)
 http://ummodigital.com:2082/live/airborne1/airborne1/5144.rtmp
+#EXTINF:-1,Montecarlo (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
+#EXTINF:-1,Montecarlo (5)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/5144.rtmp
 #EXTINF:-1,Montevideo Portal
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
+#EXTINF:-1,Saeta Canal 10 (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/8969.ts
+#EXTINF:-1,Teledoce (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
+#EXTINF:-1,TNU (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1599.ts
+#EXTINF:-1,Tv Ciudad (2)
+http://ummodigital.com:2082/live/Donald1/Donald1/5850.rtmp
+#EXTINF:-1,Tv Ciudad (3)
+http://ummodigital.com:2082/live/airborne1/airborne1/5850.rtmp
+#EXTINF:-1,Tv Ciudad (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1601.ts
+#EXTINF:-1,Tv Ciudad (5)
+http://ummodigital.com:2082/live/Orlando1/Orlando1/5850.rtmp
+#EXTINF:-1,Vera + (4)
+http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1600.ts
 #EXTINF:-1,TELEFE (ARGENTINA) 1
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 #EXTINF:-1,TIERRA MÍA (ARGENTINA)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1,TELEMUNDO (MEXICO)
-http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telemundo.m3u8
 #EXTINF:-1,RAINEWS24 ITALIA
 http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
 #EXTINF:-1,RAINEWS24 ITALIA 2
@@ -26,7 +38,3 @@ http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunkli
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
 #EXTINF:-1,Rede TV SD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1,Globo SP (3)
-http://tv.factoryiptv.com:80/claudio/claudio/37090
-#EXTINF:-1,Globo RJ (3)
-http://tv.factoryiptv.com:80/claudio/claudio/37091
