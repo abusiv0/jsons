@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Saeta Canal 10 (1)
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/14080.ts
 #EXTINF:-1,Montecarlo (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
 #EXTINF:-1,Montecarlo (3)
@@ -10,10 +12,6 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/413.ts
 http://ummodigital.com:2082/live/Orlando1/Orlando1/5144.rtmp
 #EXTINF:-1,Montevideo Portal
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
-#EXTINF:-1,Saeta Canal 10 (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/8969.ts
-#EXTINF:-1,Teledoce (4)
-http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/9558.ts
 #EXTINF:-1,TNU (4)
 http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1599.ts
 #EXTINF:-1,Tv Ciudad (2)
@@ -30,6 +28,24 @@ http://158.69.228.135:8000/live/mcruz16/64N26T5I0e/1600.ts
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 #EXTINF:-1,TIERRA MÍA (ARGENTINA)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
+#EXTINF:-1,Cinecanal (5) FHD
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/9142.ts
+#EXTINF:-1,Fox (5) FHD
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/9146.ts
+#EXTINF:-1,Fox (5) HD
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1275.ts
+#EXTINF:-1,Hbo (5) HD
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/12802.ts
+#EXTINF:-1,Space (5)
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1199.ts
+#EXTINF:-1,Syfy (5)
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1271.ts
+#EXTINF:-1,Tnt (5)
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/7803.ts
+#EXTINF:-1,Universal Channel (5)
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/1277.ts
+#EXTINF:-1,Warner Channel (5)
+http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/17439.ts
 #EXTINF:-1,RAINEWS24 ITALIA
 http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
 #EXTINF:-1,RAINEWS24 ITALIA 2
