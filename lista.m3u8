@@ -2,6 +2,14 @@
 
 #EXTINF:-1,Saeta Canal 10 (1)
 http://infinity.ddns.me:25461/live/cesar.vera85/zbO9UOGgl7/14080.ts
+#EXTINF:-1,|URUGUAY| CANAL 10
+http://176.119.30.60:8000/TRdFDOzOAN/1PxQZgUV8S/101319
+#EXTINF:-1,|URUGUAY| TELE 12
+http://176.119.30.60:8000/TRdFDOzOAN/1PxQZgUV8S/101320
+#EXTINF:-1,|URUGUAY| MONTECARLO TV
+http://176.119.30.60:8000/TRdFDOzOAN/1PxQZgUV8S/101321
+#EXTINF:-1,|URUGUAY| MONTECARLO TV 2
+http://158.69.228.135:8000/live/sNlMZixCFU/t0eTiJm4JD/413.ts
 #EXTINF:-1,Montecarlo (2)
 http://ummodigital.com:2082/live/Donald1/Donald1/5144.rtmp
 #EXTINF:-1,Montecarlo (3)
