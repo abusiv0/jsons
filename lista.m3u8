@@ -1,15 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="20- URUGUAY",Montecarlo (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/67812.ts
 #EXTINF:-1 group-title="20- URUGUAY",Montecarlo (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/67812.ts
 #EXTINF:-1 group-title="20- URUGUAY",Montecarlo (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/15246.rtmp
-#EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/66273.ts
-#EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/71681.ts
 #EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/66273.ts
 #EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (4)
@@ -20,10 +14,6 @@ http://extremo.dyndns.ws:25461/live/123456/123456/15227.rtmp
 http://extremo.dyndns.ws:25461/live/470077/470077/15227.rtmp
 #EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/15227.rtmp
-#EXTINF:-1 group-title="20- URUGUAY",Teledoce (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/66274.ts
-#EXTINF:-1 group-title="20- URUGUAY",Teledoce (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/71682.ts
 #EXTINF:-1 group-title="20- URUGUAY",Teledoce (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/66274.ts
 #EXTINF:-1 group-title="20- URUGUAY",Teledoce (4)
@@ -38,8 +28,6 @@ http://extremo.dyndns.ws:25461/live/Alexis/Alexis/15229.rtmp
 http://flow.nibbletv.info/CH/VJcxZ7cEbJEm/Telefe.m3u8
 #EXTINF:-1 ,TIERRA MÍA (ARGENTINA)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1 group-title="28- PREMIUM LATINO",Fox Life (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58733.ts
 #EXTINF:-1 group-title="28- PREMIUM LATINO",Fox Life (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58733.ts
 #EXTINF:-1 group-title="28- PREMIUM LATINO",Fox Life (5)
@@ -48,26 +36,10 @@ http://extremo.dyndns.ws:25461/live/123456/123456/17571.rtmp
 http://extremo.dyndns.ws:25461/live/470077/470077/17571.rtmp
 #EXTINF:-1 group-title="28- PREMIUM LATINO",Fox Life (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/17571.rtmp
-#EXTINF:-1 group-title="28- PREMIUM LATINO",Fox Life (7) TEMP
-http://disfruta.net:80/live/tani/tani/35.rtmp
-#EXTINF:-1 group-title="30- VARIEDADES LATINO",El Gourmet (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/58748.ts
 #EXTINF:-1 group-title="30- VARIEDADES LATINO",El Gourmet (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/58748.ts
-#EXTINF:-1 group-title="30- VARIEDADES LATINO",Mas Chic (2)
-http://209.126.102.141:80/sara123/sara123/3486
-#EXTINF:-1 group-title="30- VARIEDADES LATINO",Mas Chic (2)
-http://209.126.102.141:80/sara123/sara123/3711
-#EXTINF:-1 group-title="30- VARIEDADES LATINO",Mas Chic (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/11616.ts
 #EXTINF:-1 group-title="30- VARIEDADES LATINO",Mas Chic (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/11616.ts
-#EXTINF:-1 group-title="28- PREMIUM LATINO",Space (2)
-http://209.126.102.141:80/sara123/sara123/3730
-#EXTINF:-1 group-title="28- PREMIUM LATINO",Space (2)
-http://209.126.102.141:80/sara123/sara123/3135
-#EXTINF:-1 group-title="28- PREMIUM LATINO",Space (3)
-http://wohuogai.com:37000/live/paratodos_arsat.7654FDUHG/fgxhfdjkhFXJGCtuy/29273.ts
 #EXTINF:-1 group-title="28- PREMIUM LATINO",Space (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/29273.ts
 #EXTINF:-1 group-title="28- PREMIUM LATINO",Space (5)
