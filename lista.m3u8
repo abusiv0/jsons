@@ -1,11 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="20- URUGUAY",Montecarlo (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/67812.ts
 #EXTINF:-1 group-title="20- URUGUAY",Montecarlo (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/15246.rtmp
-#EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (4)
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/66273.ts
 #EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (4)
 http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/71681.ts
 #EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (5)
@@ -14,10 +11,6 @@ http://extremo.dyndns.ws:25461/live/123456/123456/15227.rtmp
 http://extremo.dyndns.ws:25461/live/470077/470077/15227.rtmp
 #EXTINF:-1 group-title="20- URUGUAY",Saeta Canal 10 (6)
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/15227.rtmp
-#EXTINF:-1 group-title="20- URUGUAY",Teledoce (4)
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/66274.ts
-#EXTINF:-1 group-title="20- URUGUAY",Teledoce (4)
-http://wohuogai.com:37000/live/redcol_hgciy75rifyktfiy/gfxutrd65rythfgfdUF/71682.ts
 #EXTINF:-1 group-title="20- URUGUAY",Teledoce (5)
 http://extremo.dyndns.ws:25461/live/123456/123456/15229.rtmp
 #EXTINF:-1 group-title="20- URUGUAY",Teledoce (5)*
