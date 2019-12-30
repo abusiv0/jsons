@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,Canal 4 Montecarlo
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/672.rtmp
+#EXTINF:-1 ,Canal 12 Teledoce
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/679.rtmp
+#EXTINF:-1 ,Saeta Canal 10
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/676.rtmp
 #EXTINF:-1 ,Saeta Canal 10 (5)
 http://extremo.dyndns.ws:25461/live/123456/123456/15227.rtmp
 #EXTINF:-1 ,Saeta Canal 10 (5)*
@@ -7,8 +13,12 @@ http://extremo.dyndns.ws:25461/live/470077/470077/15227.rtmp
 http://extremo.dyndns.ws:25461/live/123456/123456/15229.rtmp
 #EXTINF:-1 ,Teledoce (5)*
 http://extremo.dyndns.ws:25461/live/470077/470077/15229.rtmp
-#EXTINF:-1 ,TELEFE (ARGENTINA)
-http://extremo.dyndns.ws:25461/live/0000/0000/17544.rtmp
+#EXTINF:-1,URU-Monte Carlo (Mi)
+http://tv.latintvweb.com:25461/LTN1584/prx5AbJK8F/21354
+#EXTINF:-1,URU-Tele Doce (Mi)(720)
+http://tv.latintvweb.com:25461/LTN1584/prx5AbJK8F/21356
+#EXTINF:-1,URU-Canal 10 (Mi)
+http://tv.latintvweb.com:25461/LTN1584/prx5AbJK8F/21355
 #EXTINF:-1 ,TIERRA MÍA (ARGENTINA)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
 #EXTINF:-1 ,Fox Life (5)
