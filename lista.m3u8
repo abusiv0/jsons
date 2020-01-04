@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Canal 4 Montecarlo
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/672.rtmp
+#EXTINF:-1 ,Canal 4 Montecarlo 2
+http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/673.rtmp
 #EXTINF:-1 ,Canal 12 Teledoce
 http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/679.rtmp
 #EXTINF:-1 ,Saeta Canal 10
