@@ -1,33 +1,41 @@
 #EXTM3U
 #EXTINF:-1 ,Canal 4 Montecarlo
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/672.rtmp
-#EXTINF:-1 ,Canal 4 Montecarlo 2
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/673.rtmp
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1113117.rtmp
 #EXTINF:-1 ,Canal 12 Teledoce
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/679.rtmp
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/28089.rtmp
 #EXTINF:-1 ,Saeta Canal 10
-http://urutv.online:25461/live/FranciscoSalvador/e9oYPieSvq/676.rtmp
-#EXTINF:-1 ,Saeta Canal 10 (5)
-http://extremo.dyndns.ws:25461/live/123456/123456/15227.rtmp
-#EXTINF:-1 ,Saeta Canal 10 (5)*
-http://extremo.dyndns.ws:25461/live/470077/470077/15227.rtmp
-#EXTINF:-1 ,Teledoce (5)
-http://extremo.dyndns.ws:25461/live/123456/123456/15229.rtmp
-#EXTINF:-1 ,Teledoce (5)*
-http://extremo.dyndns.ws:25461/live/470077/470077/15229.rtmp
-#EXTINF:-1,URU-Monte Carlo (Mi)
-http://tv.latintvweb.com:25461/LTN1584/prx5AbJK8F/21354
-#EXTINF:-1,URU-Tele Doce (Mi)(720)
-http://tv.latintvweb.com:25461/LTN1584/prx5AbJK8F/21356
-#EXTINF:-1,URU-Canal 10 (Mi)
-http://tv.latintvweb.com:25461/LTN1584/prx5AbJK8F/21355
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1113116.rtmp
+#EXTINF:-1 ,Uruguay Canal 10
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27214
+#EXTINF:-1 ,Uruguay Monte Carlo TV
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27194
+#EXTINF:-1 ,Uruguay La Tele 12
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27197
+#EXTINF:-1 ,Uruguay TNU
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27190
+#EXTINF:-1 ,Uruguay Television Nacional mU
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27189
+#EXTINF:-1 ,Uruguay TV Ciudad
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27188
+#EXTINF:-1 ,AR: Telefe FHD*
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27152
+#EXTINF:-1 ,AR: Telefe HD*
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27151
+#EXTINF:-1 ,Telefe (Argentina)
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/50627.rtmp
+#EXTINF:-1 ,Telefe (Argentina)
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/109930.rtmp
+#EXTINF:-1 ,Telefe (Argentina)
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1116299.rtmp
 #EXTINF:-1 ,TIERRA MÍA (ARGENTINA)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1 ,Fox Life (5)
-http://extremo.dyndns.ws:25461/live/123456/123456/17571.rtmp
-#EXTINF:-1 ,Fox Life (5)*
-http://extremo.dyndns.ws:25461/live/470077/470077/17571.rtmp
-#EXTINF:-1 ,Space (5)
-http://extremo.dyndns.ws:25461/live/123456/123456/2623.rtmp
-#EXTINF:-1 ,Space (5)*
-http://extremo.dyndns.ws:25461/live/470077/470077/2623.rtmp
+#EXTINF:-1 ,AR: El trece FHD*
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27165
+#EXTINF:-1 ,AR: Cronica Television HD*
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27172
+#EXTINF:-1 ,AR: Cronica Television
+http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1115808.rtmp
+#EXTINF:-1 ,AR: El Nueve FHD*
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27168
+#EXTINF:-1 ,AR: El Nueve HD*
+http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27167
