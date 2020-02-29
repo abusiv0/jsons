@@ -1,41 +1,29 @@
 #EXTM3U
-#EXTINF:-1 ,Canal 4 Montecarlo
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1113117.rtmp
-#EXTINF:-1 ,Canal 12 Teledoce
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/28089.rtmp
-#EXTINF:-1 ,Saeta Canal 10
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1113116.rtmp
-#EXTINF:-1 ,Uruguay Canal 10
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27214
-#EXTINF:-1 ,Uruguay Monte Carlo TV
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27194
-#EXTINF:-1 ,Uruguay La Tele 12
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27197
-#EXTINF:-1 ,Uruguay TNU
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27190
-#EXTINF:-1 ,Uruguay Television Nacional mU
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27189
-#EXTINF:-1 ,Uruguay TV Ciudad
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27188
-#EXTINF:-1 ,AR: Telefe FHD*
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27152
-#EXTINF:-1 ,AR: Telefe HD*
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27151
-#EXTINF:-1 ,Telefe (Argentina)
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/50627.rtmp
-#EXTINF:-1 ,Telefe (Argentina)
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/109930.rtmp
-#EXTINF:-1 ,Telefe (Argentina)
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1116299.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22179.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22174.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21352.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22178.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21355.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1136710475868229633/p2S0PMG8_400x400.jpg" group-title="20- URUGUAY",Teledoce
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22173.m3u8
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/21353.m3u8
+#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22175.m3u8
+#EXTINF:-1 tvg-logo="http://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=GWUByEQp" group-title="20- URUGUAY",Tv Ciudad
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22184.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/vera.png" group-title="20- URUGUAY",Vera +
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22185.m3u8
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22176.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +
+http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/2086.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
 #EXTINF:-1 ,TIERRA MÍA (ARGENTINA)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1 ,AR: El trece FHD*
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27165
-#EXTINF:-1 ,AR: Cronica Television HD*
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27172
-#EXTINF:-1 ,AR: Cronica Television
-http://mylatinotv.com:25461/live/MOrrBfUvEe/1osDE1dIpF/1115808.rtmp
-#EXTINF:-1 ,AR: El Nueve FHD*
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27168
-#EXTINF:-1 ,AR: El Nueve HD*
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27167
