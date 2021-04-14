@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1,UY | VTV
-http://geotvplus.com:2082/felipe/felipe/54031
-#EXTINF:-1,UY | VTV 2
-http://hidraplay.tv:80/123123/123123/43585
-#EXTINF:-1,UY | VTV 3
-https://ul.cdn946.net:8443/hls/vhr4szj7m85015.m3u8
-#EXTINF:-1,UY | VTV 4
-https://ul.cdn946.net:8443/hls/vhr4szj7m85015.m3u8?s=YY-vR2XAnMXoRBy974bSiA&e=1602644641
+#EXTINF:-1,UY | Teledoce
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/5aba9ca777ed89391543b607/publish/media_700.m3u8?aid=5ab54867ab23fd5da006be44&uid=dTHKrnFEwVpm52PtcFcpSQgjkbzRMAOG&sid=C5rMMmCSO5J6O0QupMai988PEqHEIhAf&pid=0UvebcFmtpkpLusDIYEuHkTPKr6jMjzP&ref=https%3A%2F%2Fwww.teledoce.com%2F&without_cookies=false&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1618526638950&ot=ITpvyO5IzAUD54CoASsglQ&proto=https&pz=us
+#EXTINF:-1,UY | Teledoce 2
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/5aba9ca777ed89391543b607/publish/media_700.m3u8?aid=5ab54867ab23fd5da006be44&uid=dTHKrnFEwVpm52PtcFcpSQgjkbzRMAOG&sid=C5rMMmCSO5J6O0QupMai988PEqHEIhAf&pid=0UvebcFmtpkpLusDIYEuHkTPKr6jMjzP&ref=https%3A%2F%2Fwww.teledoce.com%2F&without_cookies=false&dnt=true&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1618526638950&ot=ITpvyO5IzAUD54CoASsglQ&proto=https&pz=us
